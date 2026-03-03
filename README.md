@@ -27,7 +27,7 @@ A Python tool that automatically scrapes and filters remote tech job listings fr
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/job-listing-scraper.git
+git clone https://github.com/fatasduckling/job-listing-scraper.git
 cd job-listing-scraper
 ```
 
